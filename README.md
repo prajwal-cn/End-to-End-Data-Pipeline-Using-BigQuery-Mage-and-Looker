@@ -1,4 +1,4 @@
-# **Modern Data Engineering GCP Project**
+# **Modern Data Pipeline Using GCP, Mage and Looker**
 
 ## Introduction
 
